@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Stavros Chersoniotakis - I am a full-stack C# developer.
-- My tech experience includes programming languages: MSSQL, VB, C, HTML/CSS/JS, Angular.
+- (waving) My tech experience includes programming languages: MSSQL, VB, C, HTML/CSS/JS, Angular.
   and technologies: ASP.NET, .Net core, Blazor, Maui, MVC, Razor, WindowsForms, Autofac, RabbitMQ, SignalR, SeriLog and more
   with version control: Github, TFS, TurqoiseSVN
 - 👀 I'm interested in building my knowledge so I can have a better understanding of programming using better and better tools. You may find here some of my work.
